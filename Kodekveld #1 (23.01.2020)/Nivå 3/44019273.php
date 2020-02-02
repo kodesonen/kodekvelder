@@ -18,6 +18,9 @@
         <h1>3/3</h2>
         <h2>Greier du å finne feilen med logikken i kildekoden nedenfor?</h2>
         <p><strong>OBS! Kan være du får et lite anagram. Når du har løst det kan du sende en mail til kontakt@kodesonen.no</strong></p>
+	    
+	<!-- Istedenfor å se på koden nedenfor kan du se på .cpp filen 3oppgave.cpp -->
+	    
 		<div style="margin: auto 1em;padding-bottom: 3em;">
 		
 		<div style="background: #272822; overflow:auto;width:auto;border-width:.1em .1em .1em .8em;padding:.6em .6em;border-radius:2px;"><pre style="margin: 0; line-height: 125%"><span style="color: #75715e">#include &lt;iostream&gt;</span>
